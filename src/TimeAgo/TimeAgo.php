@@ -13,6 +13,8 @@
  * @version    1.0
  * @link       https://github.com/ramazancetinkaya/TimeAgo
  */
+namespace TimeAgo;
+
 class TimeAgo {
     
     /**
